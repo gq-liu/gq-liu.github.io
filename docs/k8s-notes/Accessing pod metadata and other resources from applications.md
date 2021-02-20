@@ -1,6 +1,6 @@
 ---
 layout: default
-title: architecture
+title: Accessing pod metadata and other resources from applications 
 parent: k8s-notes
 nav_order: 2
 ---
