@@ -4,7 +4,7 @@ title: Interface
 parent: golang
 nav_order: 2
 ---
-
+A good article for reference [here](https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c)
 ### 1. 接口的定义和实现
 接口由<span style="color:red">**使用者**</span>定义。
 例如：
