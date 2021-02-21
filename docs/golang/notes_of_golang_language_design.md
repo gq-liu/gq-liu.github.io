@@ -3,6 +3,7 @@ layout: default
 title: Notes - Language Design of Golang
 parent: golang
 nav_order: 2
+last_modified_date: Feb 20 2021 at 07:33 PM
 ---
 
 The original article: [Go at Google: Language Design in the Service of Software Engineering
