@@ -3,6 +3,7 @@ layout: default
 title: Interface
 parent: golang
 nav_order: 2
+last_modified_date: Feb 21 2021 at 09:30 PM
 ---
 ### A good article for reference [here](https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c)
 ### Some takeaways:
